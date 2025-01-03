@@ -1,5 +1,5 @@
+package Data_Structure.Linear_Data_Structure.Array;
 
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class Leetcode1929 {

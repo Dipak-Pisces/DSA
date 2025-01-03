@@ -1,9 +1,8 @@
+package Data_Structure.Linear_Data_Structure.Array;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 public class Leetcode1672 {
 
