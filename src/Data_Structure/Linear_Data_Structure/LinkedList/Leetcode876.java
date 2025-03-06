@@ -4,10 +4,10 @@ public class Leetcode876 {
 
     public class ListNode {
         int val;
-        Leetcode83.ListNode next;
+        ListNode next;
         ListNode() {}
         ListNode(int val) { this.val = val; }
-        ListNode(int val, Leetcode83.ListNode next) { this.val = val; this.next = next; }
+        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
 
     public ListNode middleNode(ListNode head) {

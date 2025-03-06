@@ -4,7 +4,7 @@ public class Leetcode237 {
 
     public class ListNode {
         int val;
-        Leetcode83.ListNode next;
+        ListNode next;
         ListNode() {}
         ListNode(int val) { this.val = val; }
     }
